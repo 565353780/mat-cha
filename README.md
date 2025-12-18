@@ -26,6 +26,8 @@ MAtCha/mast3r/checkpoints/MASt3R_ViTLarge_BaseDecoder_512_catmlpdpt_metric_retri
 ## Setup
 
 ```bash
+conda create -n matcha python=3.9
+conda activate matcha
 ./setup.sh
 ```
 
